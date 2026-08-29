@@ -1,65 +1,113 @@
-# PS 26184 — Member A: Data & Synthetic Dataset Engineer
+# Synthetic Cybercrime Complaint Data Pipeline
 
-## What's in this folder
-- `00_primer.py` — tiny practice script (4 core techniques), run this first
-- `01_schema.py` — the shared data schema (interface contract for the team)
-- `02_generate_complaints.py` — generates synthetic complaint records
-- `data/` — where generated CSV/JSON files will be saved (empty for now)
-- `requirements.txt` — list of Python libraries this project needs
+**Smart India Hackathon 2026 — PS 26184 (Ministry of Home Affairs / I4C)**
+*My individual contribution as Data & Synthetic Dataset Engineer on a 5-member team*
 
-## One-time setup (do this once)
+## The problem
 
-1. **Install VS Code** if you don't have it: https://code.visualstudio.com/
-2. **Install the Python extension** inside VS Code: click the Extensions icon
-   on the left sidebar (looks like 4 squares), search "Python", install the
-   Microsoft one (it's the top result, has a blue icon).
-3. **Install Python itself** if you don't have it: https://www.python.org/downloads/
-   During install on Windows, tick "Add Python to PATH" — easy to miss, matters a lot.
-4. **Download this folder** to your laptop (I'll give you a zip) and put it
-   somewhere sensible, e.g. `Documents/ps26184-member-a`.
-5. **Open the folder in VS Code**: File → Open Folder → select `ps26184-member-a`.
+India's National Cybercrime Reporting Portal (NCRP) receives ~8,000
+complaints daily. The official problem statement asks for a predictive
+system that forecasts **where and when fraud money will be withdrawn in
+cash**, so law enforcement and banks can intervene before it disappears —
+instead of just reacting after the fact.
 
-## Every time you start working (do this each session)
+Our team built a 5-part system on top of this idea (graph-based mule
+network detection, spatio-temporal hotspot prediction, a risk-fusion +
+alerting engine, and a GIS dashboard). **This repo is my part**: the data
+foundation everyone else's models were built and tested against.
 
-1. Open VS Code, open this folder if it's not already open.
-2. Open a terminal inside VS Code: Terminal menu → New Terminal (or `` Ctrl+` ``).
-3. Create a virtual environment — this keeps this project's Python packages
-   separate from everything else on your machine, so nothing conflicts:
-   ```
-   python -m venv venv
-   ```
-   (only needed once — skip this step after the first time)
-4. Activate it:
-   - Windows: `venv\Scripts\activate`
-   - Mac/Linux: `source venv/bin/activate`
-   You'll know it worked because your terminal prompt will show `(venv)` at the start.
-5. Install the required packages (only needed once, or whenever requirements.txt changes):
-   ```
-   pip install -r requirements.txt
-   ```
-6. Run any script:
-   ```
-   python 00_primer.py
-   python 02_generate_complaints.py
-   ```
-   You should see output printed in the terminal — tables, numbers, etc.
+## What this pipeline does
 
-## VS Code tips for a beginner
-- Click on any `.py` file in the left sidebar (Explorer panel) to open it.
-- The ▶ "Run" button top-right of the editor does the same thing as typing
-  `python filename.py` in the terminal — either works.
-- If VS Code asks you to "select a Python interpreter", pick the one that
-  says `venv` in its path — that's the one with your installed packages.
-- Errors will show up in red in the terminal — read the LAST line of the
-  error first, it usually tells you what actually went wrong.
+Real transaction-level cybercrime data isn't publicly available, so I
+built a synthetic data generator calibrated against real published
+NCRP/I4C/MHA statistics — not arbitrary random data. It simulates the
+full lifecycle of a cybercrime complaint: money leaving a victim's
+account, bouncing through a chain of mule accounts, and finally being
+withdrawn in cash at an ATM — with a live-feed API to demo it in real
+time.
 
-## Where we are in the overall workflow
-- [x] Step 1: Research & calibration (real NCRP/I4C stats)
-- [x] Step 2: Schema design (`01_schema.py`)
-- [x] Step 3: Generate Complaints (`02_generate_complaints.py`)
-- [ ] Step 4: Generate Accounts + ATMs (with reuse pool)
-- [ ] Step 5: Generate Transactions + Withdrawals
-- [ ] Step 6: Add noise/incompleteness
-- [ ] Step 7: Validate distributions
-- [ ] Step 8: Export CSV/JSON
-- [ ] Step 9: Build ingestion API (FastAPI)
+**Key engineering decisions, not just "generate some fake rows":**
+
+- **Calibrated, not arbitrary** — fraud-type frequency and loss
+  distributions are matched to real I4C figures (e.g. investment scams
+  are ~12% of complaints but ~77% of ₹ losses; the generator models
+  volume and value as *two separate* weighted distributions to capture
+  that).
+- **Engineered reuse patterns** — ~15-20% of accounts and ATMs are
+  seeded as a "hot pool" that gets pulled disproportionately often,
+  simulating real mule-network and cash-out-hotspot behavior — the
+  actual signal a graph/network model needs to learn to detect.
+- **Ground-truth separation** — every prediction target (the eventual
+  cash-out location/time, whether an account is a mule) is generated
+  but stored *separately* from the visible features, so downstream ML
+  models can't accidentally "see the answer" during training. This
+  mirrors how a real evaluation pipeline has to work.
+- **Deliberately imperfect** — missing fields, duplicate complaints,
+  inconsistent spellings, and background non-fraud transactions are
+  injected on purpose, so the dataset doesn't look artificially clean.
+- **Automated validation** — a test suite checks every engineered
+  distribution against its target range (13/13 checks passing) before
+  the data is considered ready to hand off.
+- **Train/test split with held-back outcomes** — 80% of complaints
+  include their full resolved history (for model training); the
+  remaining 20% simulate *live, unresolved* complaints with the
+  eventual withdrawal deliberately withheld into a separate ground-truth
+  file, used only for scoring prediction accuracy.
+
+## Pipeline stages
+
+| Stage | Script | Output |
+|---|---|---|
+| Research & calibration | — | Real NCRP/I4C stats used as generation targets |
+| Schema design | `01_schema.py` | 5 core entities (Complaint, Account, ATM, Transaction, Withdrawal) |
+| Complaint generation | `02_generate_complaints.py` | Complaints matching real fraud-type/loss distributions |
+| Account/ATM generation | `03_generate_accounts_atms.py` | Entities with a weighted mule/hotspot reuse pool |
+| Transaction chains | `04_generate_transactions_withdrawals.py` | Fraud chains linking complaints → accounts → ATMs |
+| Noise injection | `05_add_noise.py` | Missing data, duplicates, spelling inconsistency, background noise |
+| Validation | `06_validate.py` | Automated distribution checks |
+| Export | `07_export.py` | Final CSV/JSON dataset with train/test split |
+| Ingestion API | `08_ingestion_api.py` | FastAPI service simulating a live complaint feed |
+
+## Tech stack
+
+Python, pandas, NumPy, Faker, FastAPI, Uvicorn
+
+## Running it
+
+```bash
+python -m venv venv
+venv\Scripts\activate        # Windows
+# source venv/bin/activate   # macOS/Linux
+
+pip install -r requirements.txt
+
+python 07_export.py                              # generates data/
+python -m uvicorn 08_ingestion_api:app --reload   # starts the live API
+```
+
+Then visit `http://127.0.0.1:8000/docs` for an interactive API explorer —
+try `POST /simulate/start-feed` to watch complaints arrive on a live
+timer, exactly as they would from a real ingestion pipeline.
+
+## Sample validation output
+
+```
+── Loss concentration (should mirror real I4C data) ───
+  [PASS] Investment Scam share of TOTAL losses: 71.9%  (expected 55-85%)
+
+── Account / ATM reuse (mule network signal) ──────────
+  [PASS] Mule account pool size: 18.0%  (expected 14-22%)
+  [PASS] Actual mule-account hit rate in fraud txns: 77.3%  (expected 60-90%)
+
+── Ground truth integrity ──────────────────────────────
+  [PASS] Non-financial complaints WITHOUT ground truth (leak check): 0.0%  (expected 0-0%)
+
+RESULT: 13/13 checks passed
+```
+
+## Scope note
+
+This repo contains only my individual contribution (data generation +
+ingestion API) from a 5-member SIH team project. The graph/network
+model, spatio-temporal model, fusion/alerting backend, and GIS dashboard
+were built by teammates and aren't included here.
