@@ -1,0 +1,2802 @@
+[
+  {
+    "atm_id":"ATM-00210",
+    "bank_name":"Bank of Baroda",
+    "district":"New Delhi",
+    "latitude":28.57619,
+    "longitude":77.20264
+  },
+  {
+    "atm_id":"ATM-00281",
+    "bank_name":"Axis Bank",
+    "district":"Lucknow",
+    "latitude":26.84899,
+    "longitude":80.99491
+  },
+  {
+    "atm_id":"ATM-00034",
+    "bank_name":"Axis Bank",
+    "district":"Jaipur",
+    "latitude":26.86721,
+    "longitude":75.75244
+  },
+  {
+    "atm_id":"ATM-00211",
+    "bank_name":"ICICI Bank",
+    "district":"Pune",
+    "latitude":18.50614,
+    "longitude":73.88651
+  },
+  {
+    "atm_id":"ATM-00094",
+    "bank_name":"Punjab National Bank",
+    "district":"Hyderabad",
+    "latitude":17.40775,
+    "longitude":78.4795
+  },
+  {
+    "atm_id":"ATM-00085",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Pune",
+    "latitude":18.52337,
+    "longitude":73.82868
+  },
+  {
+    "atm_id":"ATM-00330",
+    "bank_name":"Bank of Baroda",
+    "district":"Noida",
+    "latitude":28.57347,
+    "longitude":77.38318
+  },
+  {
+    "atm_id":"ATM-00095",
+    "bank_name":"Bank of Baroda",
+    "district":"New Delhi",
+    "latitude":28.64888,
+    "longitude":77.20666
+  },
+  {
+    "atm_id":"ATM-00267",
+    "bank_name":"Axis Bank",
+    "district":"Jaipur",
+    "latitude":26.94561,
+    "longitude":75.75246
+  },
+  {
+    "atm_id":"ATM-00127",
+    "bank_name":"HDFC Bank",
+    "district":"Pune",
+    "latitude":18.51269,
+    "longitude":73.86682
+  },
+  {
+    "atm_id":"ATM-00010",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Chennai",
+    "latitude":13.11887,
+    "longitude":80.2846
+  },
+  {
+    "atm_id":"ATM-00362",
+    "bank_name":"Punjab National Bank",
+    "district":"Ahmedabad",
+    "latitude":22.97572,
+    "longitude":72.58308
+  },
+  {
+    "atm_id":"ATM-00057",
+    "bank_name":"State Bank of India",
+    "district":"New Delhi",
+    "latitude":28.64506,
+    "longitude":77.23507
+  },
+  {
+    "atm_id":"ATM-00073",
+    "bank_name":"State Bank of India",
+    "district":"New Delhi",
+    "latitude":28.59646,
+    "longitude":77.23607
+  },
+  {
+    "atm_id":"ATM-00133",
+    "bank_name":"Punjab National Bank",
+    "district":"Hyderabad",
+    "latitude":17.43557,
+    "longitude":78.46581
+  },
+  {
+    "atm_id":"ATM-00043",
+    "bank_name":"Punjab National Bank",
+    "district":"New Delhi",
+    "latitude":28.58049,
+    "longitude":77.24913
+  },
+  {
+    "atm_id":"ATM-00279",
+    "bank_name":"HDFC Bank",
+    "district":"Chennai",
+    "latitude":13.09803,
+    "longitude":80.26434
+  },
+  {
+    "atm_id":"ATM-00377",
+    "bank_name":"State Bank of India",
+    "district":"Pune",
+    "latitude":18.54851,
+    "longitude":73.84753
+  },
+  {
+    "atm_id":"ATM-00232",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Ahmedabad",
+    "latitude":23.03487,
+    "longitude":72.56155
+  },
+  {
+    "atm_id":"ATM-00386",
+    "bank_name":"HDFC Bank",
+    "district":"Pune",
+    "latitude":18.52475,
+    "longitude":73.85736
+  },
+  {
+    "atm_id":"ATM-00078",
+    "bank_name":"State Bank of India",
+    "district":"Mumbai",
+    "latitude":19.04318,
+    "longitude":72.82923
+  },
+  {
+    "atm_id":"ATM-00016",
+    "bank_name":"Axis Bank",
+    "district":"Noida",
+    "latitude":28.57554,
+    "longitude":77.38699
+  },
+  {
+    "atm_id":"ATM-00392",
+    "bank_name":"Axis Bank",
+    "district":"New Delhi",
+    "latitude":28.58976,
+    "longitude":77.16207
+  },
+  {
+    "atm_id":"ATM-00272",
+    "bank_name":"State Bank of India",
+    "district":"Bengaluru Urban",
+    "latitude":12.94309,
+    "longitude":77.565
+  },
+  {
+    "atm_id":"ATM-00001",
+    "bank_name":"Punjab National Bank",
+    "district":"Pune",
+    "latitude":18.50879,
+    "longitude":73.87334
+  },
+  {
+    "atm_id":"ATM-00397",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Pune",
+    "latitude":18.50547,
+    "longitude":73.88503
+  },
+  {
+    "atm_id":"ATM-00115",
+    "bank_name":"HDFC Bank",
+    "district":"Chennai",
+    "latitude":13.05696,
+    "longitude":80.22247
+  },
+  {
+    "atm_id":"ATM-00226",
+    "bank_name":"Bank of Baroda",
+    "district":"New Delhi",
+    "latitude":28.58124,
+    "longitude":77.17901
+  },
+  {
+    "atm_id":"ATM-00263",
+    "bank_name":"Axis Bank",
+    "district":"Lucknow",
+    "latitude":26.84927,
+    "longitude":80.92379
+  },
+  {
+    "atm_id":"ATM-00105",
+    "bank_name":"Axis Bank",
+    "district":"Pune",
+    "latitude":18.47164,
+    "longitude":73.83271
+  },
+  {
+    "atm_id":"ATM-00396",
+    "bank_name":"Axis Bank",
+    "district":"New Delhi",
+    "latitude":28.58916,
+    "longitude":77.25822
+  },
+  {
+    "atm_id":"ATM-00194",
+    "bank_name":"Axis Bank",
+    "district":"Mumbai",
+    "latitude":19.06745,
+    "longitude":72.90782
+  },
+  {
+    "atm_id":"ATM-00262",
+    "bank_name":"Bank of Baroda",
+    "district":"Chennai",
+    "latitude":13.11751,
+    "longitude":80.27767
+  },
+  {
+    "atm_id":"ATM-00058",
+    "bank_name":"Bank of Baroda",
+    "district":"Chennai",
+    "latitude":13.10651,
+    "longitude":80.24051
+  },
+  {
+    "atm_id":"ATM-00233",
+    "bank_name":"State Bank of India",
+    "district":"Bengaluru Urban",
+    "latitude":13.01696,
+    "longitude":77.6262
+  },
+  {
+    "atm_id":"ATM-00117",
+    "bank_name":"ICICI Bank",
+    "district":"Jaipur",
+    "latitude":26.90603,
+    "longitude":75.80218
+  },
+  {
+    "atm_id":"ATM-00114",
+    "bank_name":"HDFC Bank",
+    "district":"Chennai",
+    "latitude":13.04659,
+    "longitude":80.31921
+  },
+  {
+    "atm_id":"ATM-00343",
+    "bank_name":"State Bank of India",
+    "district":"Mumbai",
+    "latitude":19.09966,
+    "longitude":72.83268
+  },
+  {
+    "atm_id":"ATM-00159",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Lucknow",
+    "latitude":26.87895,
+    "longitude":80.98971
+  },
+  {
+    "atm_id":"ATM-00142",
+    "bank_name":"Axis Bank",
+    "district":"Mumbai",
+    "latitude":19.08974,
+    "longitude":72.87058
+  },
+  {
+    "atm_id":"ATM-00382",
+    "bank_name":"ICICI Bank",
+    "district":"Chennai",
+    "latitude":13.04848,
+    "longitude":80.22645
+  },
+  {
+    "atm_id":"ATM-00056",
+    "bank_name":"HDFC Bank",
+    "district":"Mumbai",
+    "latitude":19.06085,
+    "longitude":72.86441
+  },
+  {
+    "atm_id":"ATM-00077",
+    "bank_name":"Punjab National Bank",
+    "district":"Pune",
+    "latitude":18.49291,
+    "longitude":73.84116
+  },
+  {
+    "atm_id":"ATM-00026",
+    "bank_name":"HDFC Bank",
+    "district":"Lucknow",
+    "latitude":26.87683,
+    "longitude":80.98906
+  },
+  {
+    "atm_id":"ATM-00083",
+    "bank_name":"State Bank of India",
+    "district":"Noida",
+    "latitude":28.57173,
+    "longitude":77.35787
+  },
+  {
+    "atm_id":"ATM-00383",
+    "bank_name":"ICICI Bank",
+    "district":"Bengaluru Urban",
+    "latitude":13.01281,
+    "longitude":77.62653
+  },
+  {
+    "atm_id":"ATM-00149",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"New Delhi",
+    "latitude":28.61884,
+    "longitude":77.20053
+  },
+  {
+    "atm_id":"ATM-00182",
+    "bank_name":"Axis Bank",
+    "district":"Pune",
+    "latitude":18.56543,
+    "longitude":73.85158
+  },
+  {
+    "atm_id":"ATM-00023",
+    "bank_name":"ICICI Bank",
+    "district":"Lucknow",
+    "latitude":26.8566,
+    "longitude":80.93485
+  },
+  {
+    "atm_id":"ATM-00174",
+    "bank_name":"Bank of Baroda",
+    "district":"Chennai",
+    "latitude":13.10294,
+    "longitude":80.25025
+  },
+  {
+    "atm_id":"ATM-00047",
+    "bank_name":"Punjab National Bank",
+    "district":"Ahmedabad",
+    "latitude":23.05408,
+    "longitude":72.53517
+  },
+  {
+    "atm_id":"ATM-00322",
+    "bank_name":"HDFC Bank",
+    "district":"Ahmedabad",
+    "latitude":23.04533,
+    "longitude":72.57563
+  },
+  {
+    "atm_id":"ATM-00339",
+    "bank_name":"Axis Bank",
+    "district":"New Delhi",
+    "latitude":28.57721,
+    "longitude":77.24367
+  },
+  {
+    "atm_id":"ATM-00071",
+    "bank_name":"Punjab National Bank",
+    "district":"Pune",
+    "latitude":18.49191,
+    "longitude":73.86855
+  },
+  {
+    "atm_id":"ATM-00375",
+    "bank_name":"ICICI Bank",
+    "district":"Pune",
+    "latitude":18.54977,
+    "longitude":73.86117
+  },
+  {
+    "atm_id":"ATM-00040",
+    "bank_name":"ICICI Bank",
+    "district":"Ahmedabad",
+    "latitude":22.98194,
+    "longitude":72.53811
+  },
+  {
+    "atm_id":"ATM-00224",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Bengaluru Urban",
+    "latitude":12.95402,
+    "longitude":77.57893
+  },
+  {
+    "atm_id":"ATM-00173",
+    "bank_name":"Bank of Baroda",
+    "district":"Hyderabad",
+    "latitude":17.38353,
+    "longitude":78.45226
+  },
+  {
+    "atm_id":"ATM-00031",
+    "bank_name":"Axis Bank",
+    "district":"Ahmedabad",
+    "latitude":22.98831,
+    "longitude":72.58475
+  },
+  {
+    "atm_id":"ATM-00153",
+    "bank_name":"State Bank of India",
+    "district":"Bengaluru Urban",
+    "latitude":12.935,
+    "longitude":77.58285
+  },
+  {
+    "atm_id":"ATM-00125",
+    "bank_name":"HDFC Bank",
+    "district":"Bengaluru Urban",
+    "latitude":12.9244,
+    "longitude":77.54121
+  },
+  {
+    "atm_id":"ATM-00295",
+    "bank_name":"HDFC Bank",
+    "district":"Mumbai",
+    "latitude":19.07672,
+    "longitude":72.90848
+  },
+  {
+    "atm_id":"ATM-00256",
+    "bank_name":"HDFC Bank",
+    "district":"Ahmedabad",
+    "latitude":23.0106,
+    "longitude":72.53069
+  },
+  {
+    "atm_id":"ATM-00079",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Jaipur",
+    "latitude":26.92546,
+    "longitude":75.81843
+  },
+  {
+    "atm_id":"ATM-00102",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Lucknow",
+    "latitude":26.87503,
+    "longitude":80.92156
+  },
+  {
+    "atm_id":"ATM-00032",
+    "bank_name":"ICICI Bank",
+    "district":"Ahmedabad",
+    "latitude":22.99456,
+    "longitude":72.56843
+  },
+  {
+    "atm_id":"ATM-00353",
+    "bank_name":"Bank of Baroda",
+    "district":"Lucknow",
+    "latitude":26.81397,
+    "longitude":80.979
+  },
+  {
+    "atm_id":"ATM-00269",
+    "bank_name":"Bank of Baroda",
+    "district":"New Delhi",
+    "latitude":28.61907,
+    "longitude":77.23468
+  },
+  {
+    "atm_id":"ATM-00395",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Noida",
+    "latitude":28.49822,
+    "longitude":77.42734
+  },
+  {
+    "atm_id":"ATM-00074",
+    "bank_name":"State Bank of India",
+    "district":"Pune",
+    "latitude":18.47924,
+    "longitude":73.87953
+  },
+  {
+    "atm_id":"ATM-00321",
+    "bank_name":"ICICI Bank",
+    "district":"Jaipur",
+    "latitude":26.88777,
+    "longitude":75.78271
+  },
+  {
+    "atm_id":"ATM-00141",
+    "bank_name":"HDFC Bank",
+    "district":"Lucknow",
+    "latitude":26.88807,
+    "longitude":80.92487
+  },
+  {
+    "atm_id":"ATM-00006",
+    "bank_name":"State Bank of India",
+    "district":"Noida",
+    "latitude":28.53064,
+    "longitude":77.41524
+  },
+  {
+    "atm_id":"ATM-00046",
+    "bank_name":"Punjab National Bank",
+    "district":"Jaipur",
+    "latitude":26.92037,
+    "longitude":75.81517
+  },
+  {
+    "atm_id":"ATM-00389",
+    "bank_name":"Axis Bank",
+    "district":"Pune",
+    "latitude":18.5373,
+    "longitude":73.82415
+  },
+  {
+    "atm_id":"ATM-00247",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Mumbai",
+    "latitude":19.03826,
+    "longitude":72.84123
+  },
+  {
+    "atm_id":"ATM-00228",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Lucknow",
+    "latitude":26.88345,
+    "longitude":80.99338
+  },
+  {
+    "atm_id":"ATM-00370",
+    "bank_name":"State Bank of India",
+    "district":"Hyderabad",
+    "latitude":17.34404,
+    "longitude":78.48347
+  },
+  {
+    "atm_id":"ATM-00177",
+    "bank_name":"Axis Bank",
+    "district":"Bengaluru Urban",
+    "latitude":13.00411,
+    "longitude":77.62036
+  },
+  {
+    "atm_id":"ATM-00290",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Lucknow",
+    "latitude":26.84381,
+    "longitude":80.91335
+  },
+  {
+    "atm_id":"ATM-00004",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Mumbai",
+    "latitude":19.07662,
+    "longitude":72.84471
+  },
+  {
+    "atm_id":"ATM-00019",
+    "bank_name":"Bank of Baroda",
+    "district":"Jaipur",
+    "latitude":26.87373,
+    "longitude":75.77371
+  },
+  {
+    "atm_id":"ATM-00203",
+    "bank_name":"Axis Bank",
+    "district":"Noida",
+    "latitude":28.56689,
+    "longitude":77.40633
+  },
+  {
+    "atm_id":"ATM-00251",
+    "bank_name":"State Bank of India",
+    "district":"Noida",
+    "latitude":28.58063,
+    "longitude":77.40579
+  },
+  {
+    "atm_id":"ATM-00275",
+    "bank_name":"State Bank of India",
+    "district":"Lucknow",
+    "latitude":26.87172,
+    "longitude":80.983
+  },
+  {
+    "atm_id":"ATM-00064",
+    "bank_name":"ICICI Bank",
+    "district":"Ahmedabad",
+    "latitude":23.01051,
+    "longitude":72.54488
+  },
+  {
+    "atm_id":"ATM-00249",
+    "bank_name":"State Bank of India",
+    "district":"Chennai",
+    "latitude":13.10548,
+    "longitude":80.3113
+  },
+  {
+    "atm_id":"ATM-00302",
+    "bank_name":"Punjab National Bank",
+    "district":"New Delhi",
+    "latitude":28.58512,
+    "longitude":77.24046
+  },
+  {
+    "atm_id":"ATM-00109",
+    "bank_name":"Axis Bank",
+    "district":"Mumbai",
+    "latitude":19.04954,
+    "longitude":72.82531
+  },
+  {
+    "atm_id":"ATM-00091",
+    "bank_name":"HDFC Bank",
+    "district":"Pune",
+    "latitude":18.54102,
+    "longitude":73.88134
+  },
+  {
+    "atm_id":"ATM-00234",
+    "bank_name":"Punjab National Bank",
+    "district":"Pune",
+    "latitude":18.5543,
+    "longitude":73.86946
+  },
+  {
+    "atm_id":"ATM-00336",
+    "bank_name":"Punjab National Bank",
+    "district":"Chennai",
+    "latitude":13.125,
+    "longitude":80.31321
+  },
+  {
+    "atm_id":"ATM-00119",
+    "bank_name":"Punjab National Bank",
+    "district":"Hyderabad",
+    "latitude":17.41585,
+    "longitude":78.48334
+  },
+  {
+    "atm_id":"ATM-00221",
+    "bank_name":"ICICI Bank",
+    "district":"Mumbai",
+    "latitude":19.11921,
+    "longitude":72.83623
+  },
+  {
+    "atm_id":"ATM-00181",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Jaipur",
+    "latitude":26.94681,
+    "longitude":75.7584
+  },
+  {
+    "atm_id":"ATM-00315",
+    "bank_name":"State Bank of India",
+    "district":"Ahmedabad",
+    "latitude":23.06236,
+    "longitude":72.58118
+  },
+  {
+    "atm_id":"ATM-00374",
+    "bank_name":"Axis Bank",
+    "district":"New Delhi",
+    "latitude":28.59777,
+    "longitude":77.17229
+  },
+  {
+    "atm_id":"ATM-00381",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Bengaluru Urban",
+    "latitude":12.99724,
+    "longitude":77.61786
+  },
+  {
+    "atm_id":"ATM-00240",
+    "bank_name":"ICICI Bank",
+    "district":"Noida",
+    "latitude":28.57157,
+    "longitude":77.43993
+  },
+  {
+    "atm_id":"ATM-00076",
+    "bank_name":"ICICI Bank",
+    "district":"Pune",
+    "latitude":18.49932,
+    "longitude":73.89585
+  },
+  {
+    "atm_id":"ATM-00248",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Mumbai",
+    "latitude":19.04315,
+    "longitude":72.84765
+  },
+  {
+    "atm_id":"ATM-00111",
+    "bank_name":"Punjab National Bank",
+    "district":"Jaipur",
+    "latitude":26.8894,
+    "longitude":75.82211
+  },
+  {
+    "atm_id":"ATM-00017",
+    "bank_name":"Punjab National Bank",
+    "district":"New Delhi",
+    "latitude":28.63574,
+    "longitude":77.24395
+  },
+  {
+    "atm_id":"ATM-00067",
+    "bank_name":"Axis Bank",
+    "district":"Bengaluru Urban",
+    "latitude":12.95889,
+    "longitude":77.57452
+  },
+  {
+    "atm_id":"ATM-00154",
+    "bank_name":"HDFC Bank",
+    "district":"Pune",
+    "latitude":18.56918,
+    "longitude":73.81021
+  },
+  {
+    "atm_id":"ATM-00008",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Ahmedabad",
+    "latitude":23.00908,
+    "longitude":72.58064
+  },
+  {
+    "atm_id":"ATM-00020",
+    "bank_name":"Punjab National Bank",
+    "district":"Hyderabad",
+    "latitude":17.43752,
+    "longitude":78.49327
+  },
+  {
+    "atm_id":"ATM-00138",
+    "bank_name":"Axis Bank",
+    "district":"Noida",
+    "latitude":28.52282,
+    "longitude":77.39088
+  },
+  {
+    "atm_id":"ATM-00356",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Ahmedabad",
+    "latitude":23.01609,
+    "longitude":72.58813
+  },
+  {
+    "atm_id":"ATM-00350",
+    "bank_name":"State Bank of India",
+    "district":"Chennai",
+    "latitude":13.03836,
+    "longitude":80.27251
+  },
+  {
+    "atm_id":"ATM-00132",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Ahmedabad",
+    "latitude":23.03168,
+    "longitude":72.61795
+  },
+  {
+    "atm_id":"ATM-00388",
+    "bank_name":"HDFC Bank",
+    "district":"Chennai",
+    "latitude":13.09477,
+    "longitude":80.25997
+  },
+  {
+    "atm_id":"ATM-00293",
+    "bank_name":"ICICI Bank",
+    "district":"Ahmedabad",
+    "latitude":23.0222,
+    "longitude":72.58899
+  },
+  {
+    "atm_id":"ATM-00387",
+    "bank_name":"HDFC Bank",
+    "district":"Chennai",
+    "latitude":13.04939,
+    "longitude":80.29182
+  },
+  {
+    "atm_id":"ATM-00298",
+    "bank_name":"State Bank of India",
+    "district":"Pune",
+    "latitude":18.53275,
+    "longitude":73.90775
+  },
+  {
+    "atm_id":"ATM-00061",
+    "bank_name":"Bank of Baroda",
+    "district":"Hyderabad",
+    "latitude":17.40066,
+    "longitude":78.4773
+  },
+  {
+    "atm_id":"ATM-00080",
+    "bank_name":"Axis Bank",
+    "district":"Pune",
+    "latitude":18.49882,
+    "longitude":73.85702
+  },
+  {
+    "atm_id":"ATM-00286",
+    "bank_name":"State Bank of India",
+    "district":"Bengaluru Urban",
+    "latitude":12.96732,
+    "longitude":77.61626
+  },
+  {
+    "atm_id":"ATM-00306",
+    "bank_name":"Punjab National Bank",
+    "district":"Ahmedabad",
+    "latitude":23.00569,
+    "longitude":72.59589
+  },
+  {
+    "atm_id":"ATM-00282",
+    "bank_name":"HDFC Bank",
+    "district":"Bengaluru Urban",
+    "latitude":12.94521,
+    "longitude":77.58333
+  },
+  {
+    "atm_id":"ATM-00158",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Mumbai",
+    "latitude":19.11882,
+    "longitude":72.88144
+  },
+  {
+    "atm_id":"ATM-00110",
+    "bank_name":"State Bank of India",
+    "district":"New Delhi",
+    "latitude":28.6487,
+    "longitude":77.24721
+  },
+  {
+    "atm_id":"ATM-00018",
+    "bank_name":"Bank of Baroda",
+    "district":"Chennai",
+    "latitude":13.12235,
+    "longitude":80.28052
+  },
+  {
+    "atm_id":"ATM-00348",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Pune",
+    "latitude":18.49405,
+    "longitude":73.81508
+  },
+  {
+    "atm_id":"ATM-00025",
+    "bank_name":"Bank of Baroda",
+    "district":"Noida",
+    "latitude":28.51639,
+    "longitude":77.38238
+  },
+  {
+    "atm_id":"ATM-00176",
+    "bank_name":"State Bank of India",
+    "district":"Pune",
+    "latitude":18.50908,
+    "longitude":73.84451
+  },
+  {
+    "atm_id":"ATM-00352",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Pune",
+    "latitude":18.4744,
+    "longitude":73.85905
+  },
+  {
+    "atm_id":"ATM-00333",
+    "bank_name":"HDFC Bank",
+    "district":"New Delhi",
+    "latitude":28.57085,
+    "longitude":77.23644
+  },
+  {
+    "atm_id":"ATM-00168",
+    "bank_name":"Axis Bank",
+    "district":"Noida",
+    "latitude":28.55663,
+    "longitude":77.36105
+  },
+  {
+    "atm_id":"ATM-00246",
+    "bank_name":"ICICI Bank",
+    "district":"Mumbai",
+    "latitude":19.11746,
+    "longitude":72.8968
+  },
+  {
+    "atm_id":"ATM-00312",
+    "bank_name":"ICICI Bank",
+    "district":"Lucknow",
+    "latitude":26.82185,
+    "longitude":80.90969
+  },
+  {
+    "atm_id":"ATM-00146",
+    "bank_name":"Axis Bank",
+    "district":"New Delhi",
+    "latitude":28.60059,
+    "longitude":77.20322
+  },
+  {
+    "atm_id":"ATM-00259",
+    "bank_name":"HDFC Bank",
+    "district":"Mumbai",
+    "latitude":19.08308,
+    "longitude":72.82168
+  },
+  {
+    "atm_id":"ATM-00178",
+    "bank_name":"Axis Bank",
+    "district":"Pune",
+    "latitude":18.55125,
+    "longitude":73.85635
+  },
+  {
+    "atm_id":"ATM-00120",
+    "bank_name":"Bank of Baroda",
+    "district":"Bengaluru Urban",
+    "latitude":12.98663,
+    "longitude":77.5948
+  },
+  {
+    "atm_id":"ATM-00195",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Jaipur",
+    "latitude":26.91719,
+    "longitude":75.83231
+  },
+  {
+    "atm_id":"ATM-00230",
+    "bank_name":"Axis Bank",
+    "district":"Ahmedabad",
+    "latitude":22.98991,
+    "longitude":72.5242
+  },
+  {
+    "atm_id":"ATM-00266",
+    "bank_name":"HDFC Bank",
+    "district":"New Delhi",
+    "latitude":28.65107,
+    "longitude":77.18877
+  },
+  {
+    "atm_id":"ATM-00219",
+    "bank_name":"HDFC Bank",
+    "district":"Mumbai",
+    "latitude":19.05532,
+    "longitude":72.85879
+  },
+  {
+    "atm_id":"ATM-00308",
+    "bank_name":"HDFC Bank",
+    "district":"Bengaluru Urban",
+    "latitude":12.98897,
+    "longitude":77.55032
+  },
+  {
+    "atm_id":"ATM-00037",
+    "bank_name":"Axis Bank",
+    "district":"Jaipur",
+    "latitude":26.94212,
+    "longitude":75.79111
+  },
+  {
+    "atm_id":"ATM-00140",
+    "bank_name":"HDFC Bank",
+    "district":"Noida",
+    "latitude":28.50065,
+    "longitude":77.3548
+  },
+  {
+    "atm_id":"ATM-00292",
+    "bank_name":"ICICI Bank",
+    "district":"Chennai",
+    "latitude":13.09419,
+    "longitude":80.23447
+  },
+  {
+    "atm_id":"ATM-00156",
+    "bank_name":"HDFC Bank",
+    "district":"Ahmedabad",
+    "latitude":23.03661,
+    "longitude":72.52875
+  },
+  {
+    "atm_id":"ATM-00197",
+    "bank_name":"Punjab National Bank",
+    "district":"Bengaluru Urban",
+    "latitude":13.00167,
+    "longitude":77.60684
+  },
+  {
+    "atm_id":"ATM-00285",
+    "bank_name":"Axis Bank",
+    "district":"Noida",
+    "latitude":28.50407,
+    "longitude":77.36793
+  },
+  {
+    "atm_id":"ATM-00060",
+    "bank_name":"Axis Bank",
+    "district":"Ahmedabad",
+    "latitude":22.97207,
+    "longitude":72.57076
+  },
+  {
+    "atm_id":"ATM-00112",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Hyderabad",
+    "latitude":17.34405,
+    "longitude":78.53814
+  },
+  {
+    "atm_id":"ATM-00166",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Chennai",
+    "latitude":13.06064,
+    "longitude":80.28535
+  },
+  {
+    "atm_id":"ATM-00364",
+    "bank_name":"Punjab National Bank",
+    "district":"New Delhi",
+    "latitude":28.62722,
+    "longitude":77.23947
+  },
+  {
+    "atm_id":"ATM-00007",
+    "bank_name":"Bank of Baroda",
+    "district":"Ahmedabad",
+    "latitude":23.04806,
+    "longitude":72.52277
+  },
+  {
+    "atm_id":"ATM-00334",
+    "bank_name":"HDFC Bank",
+    "district":"Mumbai",
+    "latitude":19.03537,
+    "longitude":72.83084
+  },
+  {
+    "atm_id":"ATM-00276",
+    "bank_name":"HDFC Bank",
+    "district":"New Delhi",
+    "latitude":28.5707,
+    "longitude":77.18063
+  },
+  {
+    "atm_id":"ATM-00151",
+    "bank_name":"Axis Bank",
+    "district":"Ahmedabad",
+    "latitude":22.98592,
+    "longitude":72.55271
+  },
+  {
+    "atm_id":"ATM-00011",
+    "bank_name":"Axis Bank",
+    "district":"Pune",
+    "latitude":18.49413,
+    "longitude":73.86213
+  },
+  {
+    "atm_id":"ATM-00193",
+    "bank_name":"Bank of Baroda",
+    "district":"Noida",
+    "latitude":28.52326,
+    "longitude":77.38073
+  },
+  {
+    "atm_id":"ATM-00104",
+    "bank_name":"HDFC Bank",
+    "district":"Pune",
+    "latitude":18.53491,
+    "longitude":73.8402
+  },
+  {
+    "atm_id":"ATM-00082",
+    "bank_name":"State Bank of India",
+    "district":"Jaipur",
+    "latitude":26.93125,
+    "longitude":75.74674
+  },
+  {
+    "atm_id":"ATM-00317",
+    "bank_name":"Punjab National Bank",
+    "district":"Lucknow",
+    "latitude":26.80442,
+    "longitude":80.9689
+  },
+  {
+    "atm_id":"ATM-00399",
+    "bank_name":"Punjab National Bank",
+    "district":"Lucknow",
+    "latitude":26.87211,
+    "longitude":80.9369
+  },
+  {
+    "atm_id":"ATM-00376",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Ahmedabad",
+    "latitude":23.03613,
+    "longitude":72.55662
+  },
+  {
+    "atm_id":"ATM-00209",
+    "bank_name":"ICICI Bank",
+    "district":"Noida",
+    "latitude":28.5069,
+    "longitude":77.36923
+  },
+  {
+    "atm_id":"ATM-00287",
+    "bank_name":"HDFC Bank",
+    "district":"Jaipur",
+    "latitude":26.90544,
+    "longitude":75.77032
+  },
+  {
+    "atm_id":"ATM-00169",
+    "bank_name":"State Bank of India",
+    "district":"Pune",
+    "latitude":18.54032,
+    "longitude":73.81368
+  },
+  {
+    "atm_id":"ATM-00354",
+    "bank_name":"State Bank of India",
+    "district":"Mumbai",
+    "latitude":19.0718,
+    "longitude":72.88248
+  },
+  {
+    "atm_id":"ATM-00090",
+    "bank_name":"Axis Bank",
+    "district":"Jaipur",
+    "latitude":26.93832,
+    "longitude":75.78624
+  },
+  {
+    "atm_id":"ATM-00378",
+    "bank_name":"State Bank of India",
+    "district":"Chennai",
+    "latitude":13.10143,
+    "longitude":80.2825
+  },
+  {
+    "atm_id":"ATM-00164",
+    "bank_name":"Bank of Baroda",
+    "district":"Noida",
+    "latitude":28.4932,
+    "longitude":77.42522
+  },
+  {
+    "atm_id":"ATM-00148",
+    "bank_name":"Axis Bank",
+    "district":"Mumbai",
+    "latitude":19.0508,
+    "longitude":72.86865
+  },
+  {
+    "atm_id":"ATM-00229",
+    "bank_name":"ICICI Bank",
+    "district":"Hyderabad",
+    "latitude":17.39575,
+    "longitude":78.48579
+  },
+  {
+    "atm_id":"ATM-00093",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Pune",
+    "latitude":18.47006,
+    "longitude":73.85608
+  },
+  {
+    "atm_id":"ATM-00070",
+    "bank_name":"HDFC Bank",
+    "district":"Ahmedabad",
+    "latitude":23.06116,
+    "longitude":72.54599
+  },
+  {
+    "atm_id":"ATM-00124",
+    "bank_name":"HDFC Bank",
+    "district":"Mumbai",
+    "latitude":19.08169,
+    "longitude":72.84758
+  },
+  {
+    "atm_id":"ATM-00097",
+    "bank_name":"Axis Bank",
+    "district":"New Delhi",
+    "latitude":28.63516,
+    "longitude":77.21235
+  },
+  {
+    "atm_id":"ATM-00144",
+    "bank_name":"Bank of Baroda",
+    "district":"Lucknow",
+    "latitude":26.81624,
+    "longitude":80.94812
+  },
+  {
+    "atm_id":"ATM-00327",
+    "bank_name":"Punjab National Bank",
+    "district":"Hyderabad",
+    "latitude":17.34613,
+    "longitude":78.48495
+  },
+  {
+    "atm_id":"ATM-00098",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Pune",
+    "latitude":18.52032,
+    "longitude":73.85997
+  },
+  {
+    "atm_id":"ATM-00239",
+    "bank_name":"HDFC Bank",
+    "district":"Mumbai",
+    "latitude":19.02549,
+    "longitude":72.85002
+  },
+  {
+    "atm_id":"ATM-00069",
+    "bank_name":"ICICI Bank",
+    "district":"Mumbai",
+    "latitude":19.06374,
+    "longitude":72.85482
+  },
+  {
+    "atm_id":"ATM-00024",
+    "bank_name":"Axis Bank",
+    "district":"Lucknow",
+    "latitude":26.88257,
+    "longitude":80.95177
+  },
+  {
+    "atm_id":"ATM-00038",
+    "bank_name":"Bank of Baroda",
+    "district":"Lucknow",
+    "latitude":26.82657,
+    "longitude":80.99816
+  },
+  {
+    "atm_id":"ATM-00145",
+    "bank_name":"State Bank of India",
+    "district":"Mumbai",
+    "latitude":19.0975,
+    "longitude":72.91261
+  },
+  {
+    "atm_id":"ATM-00123",
+    "bank_name":"HDFC Bank",
+    "district":"Noida",
+    "latitude":28.5044,
+    "longitude":77.41621
+  },
+  {
+    "atm_id":"ATM-00183",
+    "bank_name":"HDFC Bank",
+    "district":"Ahmedabad",
+    "latitude":22.98482,
+    "longitude":72.60842
+  },
+  {
+    "atm_id":"ATM-00068",
+    "bank_name":"Axis Bank",
+    "district":"Bengaluru Urban",
+    "latitude":12.9691,
+    "longitude":77.61242
+  },
+  {
+    "atm_id":"ATM-00199",
+    "bank_name":"HDFC Bank",
+    "district":"Bengaluru Urban",
+    "latitude":12.94218,
+    "longitude":77.62215
+  },
+  {
+    "atm_id":"ATM-00325",
+    "bank_name":"HDFC Bank",
+    "district":"Pune",
+    "latitude":18.49342,
+    "longitude":73.81452
+  },
+  {
+    "atm_id":"ATM-00220",
+    "bank_name":"Punjab National Bank",
+    "district":"Chennai",
+    "latitude":13.12449,
+    "longitude":80.29253
+  },
+  {
+    "atm_id":"ATM-00318",
+    "bank_name":"State Bank of India",
+    "district":"Pune",
+    "latitude":18.53573,
+    "longitude":73.87959
+  },
+  {
+    "atm_id":"ATM-00196",
+    "bank_name":"Bank of Baroda",
+    "district":"Jaipur",
+    "latitude":26.88229,
+    "longitude":75.76647
+  },
+  {
+    "atm_id":"ATM-00126",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Lucknow",
+    "latitude":26.84184,
+    "longitude":80.91937
+  },
+  {
+    "atm_id":"ATM-00147",
+    "bank_name":"ICICI Bank",
+    "district":"Hyderabad",
+    "latitude":17.43784,
+    "longitude":78.47338
+  },
+  {
+    "atm_id":"ATM-00372",
+    "bank_name":"State Bank of India",
+    "district":"Lucknow",
+    "latitude":26.83779,
+    "longitude":80.96367
+  },
+  {
+    "atm_id":"ATM-00087",
+    "bank_name":"State Bank of India",
+    "district":"Chennai",
+    "latitude":13.11133,
+    "longitude":80.27009
+  },
+  {
+    "atm_id":"ATM-00337",
+    "bank_name":"Punjab National Bank",
+    "district":"Ahmedabad",
+    "latitude":23.05864,
+    "longitude":72.53574
+  },
+  {
+    "atm_id":"ATM-00341",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Bengaluru Urban",
+    "latitude":12.93963,
+    "longitude":77.56955
+  },
+  {
+    "atm_id":"ATM-00338",
+    "bank_name":"Axis Bank",
+    "district":"Chennai",
+    "latitude":13.09605,
+    "longitude":80.24156
+  },
+  {
+    "atm_id":"ATM-00355",
+    "bank_name":"Bank of Baroda",
+    "district":"New Delhi",
+    "latitude":28.63209,
+    "longitude":77.21467
+  },
+  {
+    "atm_id":"ATM-00335",
+    "bank_name":"Punjab National Bank",
+    "district":"Pune",
+    "latitude":18.49661,
+    "longitude":73.86203
+  },
+  {
+    "atm_id":"ATM-00303",
+    "bank_name":"Punjab National Bank",
+    "district":"Lucknow",
+    "latitude":26.86288,
+    "longitude":80.96698
+  },
+  {
+    "atm_id":"ATM-00184",
+    "bank_name":"HDFC Bank",
+    "district":"Chennai",
+    "latitude":13.09039,
+    "longitude":80.31571
+  },
+  {
+    "atm_id":"ATM-00204",
+    "bank_name":"ICICI Bank",
+    "district":"Jaipur",
+    "latitude":26.88134,
+    "longitude":75.80613
+  },
+  {
+    "atm_id":"ATM-00284",
+    "bank_name":"State Bank of India",
+    "district":"Hyderabad",
+    "latitude":17.39243,
+    "longitude":78.46038
+  },
+  {
+    "atm_id":"ATM-00212",
+    "bank_name":"Bank of Baroda",
+    "district":"Noida",
+    "latitude":28.58979,
+    "longitude":77.40916
+  },
+  {
+    "atm_id":"ATM-00283",
+    "bank_name":"Bank of Baroda",
+    "district":"Bengaluru Urban",
+    "latitude":12.99814,
+    "longitude":77.62337
+  },
+  {
+    "atm_id":"ATM-00130",
+    "bank_name":"Bank of Baroda",
+    "district":"Hyderabad",
+    "latitude":17.43151,
+    "longitude":78.45656
+  },
+  {
+    "atm_id":"ATM-00039",
+    "bank_name":"Axis Bank",
+    "district":"Hyderabad",
+    "latitude":17.39953,
+    "longitude":78.48764
+  },
+  {
+    "atm_id":"ATM-00012",
+    "bank_name":"State Bank of India",
+    "district":"Mumbai",
+    "latitude":19.06327,
+    "longitude":72.82309
+  },
+  {
+    "atm_id":"ATM-00326",
+    "bank_name":"ICICI Bank",
+    "district":"Lucknow",
+    "latitude":26.88273,
+    "longitude":80.91976
+  },
+  {
+    "atm_id":"ATM-00186",
+    "bank_name":"ICICI Bank",
+    "district":"Ahmedabad",
+    "latitude":23.04114,
+    "longitude":72.60002
+  },
+  {
+    "atm_id":"ATM-00223",
+    "bank_name":"ICICI Bank",
+    "district":"Hyderabad",
+    "latitude":17.43911,
+    "longitude":78.51573
+  },
+  {
+    "atm_id":"ATM-00113",
+    "bank_name":"ICICI Bank",
+    "district":"Hyderabad",
+    "latitude":17.34678,
+    "longitude":78.47315
+  },
+  {
+    "atm_id":"ATM-00180",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"New Delhi",
+    "latitude":28.62584,
+    "longitude":77.25581
+  },
+  {
+    "atm_id":"ATM-00328",
+    "bank_name":"Bank of Baroda",
+    "district":"Pune",
+    "latitude":18.47315,
+    "longitude":73.88257
+  },
+  {
+    "atm_id":"ATM-00300",
+    "bank_name":"Axis Bank",
+    "district":"Chennai",
+    "latitude":13.07197,
+    "longitude":80.25413
+  },
+  {
+    "atm_id":"ATM-00118",
+    "bank_name":"State Bank of India",
+    "district":"Ahmedabad",
+    "latitude":22.97509,
+    "longitude":72.5717
+  },
+  {
+    "atm_id":"ATM-00369",
+    "bank_name":"Axis Bank",
+    "district":"Chennai",
+    "latitude":13.09217,
+    "longitude":80.22425
+  },
+  {
+    "atm_id":"ATM-00278",
+    "bank_name":"Bank of Baroda",
+    "district":"Ahmedabad",
+    "latitude":23.00251,
+    "longitude":72.56111
+  },
+  {
+    "atm_id":"ATM-00385",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Bengaluru Urban",
+    "latitude":12.94616,
+    "longitude":77.61333
+  },
+  {
+    "atm_id":"ATM-00288",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Hyderabad",
+    "latitude":17.36009,
+    "longitude":78.52638
+  },
+  {
+    "atm_id":"ATM-00363",
+    "bank_name":"ICICI Bank",
+    "district":"Bengaluru Urban",
+    "latitude":12.99192,
+    "longitude":77.63884
+  },
+  {
+    "atm_id":"ATM-00165",
+    "bank_name":"ICICI Bank",
+    "district":"Pune",
+    "latitude":18.53949,
+    "longitude":73.89103
+  },
+  {
+    "atm_id":"ATM-00254",
+    "bank_name":"Punjab National Bank",
+    "district":"Pune",
+    "latitude":18.47687,
+    "longitude":73.9049
+  },
+  {
+    "atm_id":"ATM-00137",
+    "bank_name":"Axis Bank",
+    "district":"Lucknow",
+    "latitude":26.82262,
+    "longitude":80.90222
+  },
+  {
+    "atm_id":"ATM-00155",
+    "bank_name":"ICICI Bank",
+    "district":"Bengaluru Urban",
+    "latitude":12.93335,
+    "longitude":77.63837
+  },
+  {
+    "atm_id":"ATM-00200",
+    "bank_name":"State Bank of India",
+    "district":"New Delhi",
+    "latitude":28.56023,
+    "longitude":77.16478
+  },
+  {
+    "atm_id":"ATM-00198",
+    "bank_name":"HDFC Bank",
+    "district":"Noida",
+    "latitude":28.52948,
+    "longitude":77.34043
+  },
+  {
+    "atm_id":"ATM-00393",
+    "bank_name":"Punjab National Bank",
+    "district":"Pune",
+    "latitude":18.50683,
+    "longitude":73.88252
+  },
+  {
+    "atm_id":"ATM-00003",
+    "bank_name":"Punjab National Bank",
+    "district":"Pune",
+    "latitude":18.55612,
+    "longitude":73.8168
+  },
+  {
+    "atm_id":"ATM-00205",
+    "bank_name":"Axis Bank",
+    "district":"Mumbai",
+    "latitude":19.10552,
+    "longitude":72.91256
+  },
+  {
+    "atm_id":"ATM-00116",
+    "bank_name":"ICICI Bank",
+    "district":"Chennai",
+    "latitude":13.06713,
+    "longitude":80.26484
+  },
+  {
+    "atm_id":"ATM-00235",
+    "bank_name":"Punjab National Bank",
+    "district":"Mumbai",
+    "latitude":19.07929,
+    "longitude":72.86734
+  },
+  {
+    "atm_id":"ATM-00238",
+    "bank_name":"State Bank of India",
+    "district":"Noida",
+    "latitude":28.54371,
+    "longitude":77.38256
+  },
+  {
+    "atm_id":"ATM-00027",
+    "bank_name":"Bank of Baroda",
+    "district":"Noida",
+    "latitude":28.509,
+    "longitude":77.4086
+  },
+  {
+    "atm_id":"ATM-00121",
+    "bank_name":"HDFC Bank",
+    "district":"Jaipur",
+    "latitude":26.91059,
+    "longitude":75.83986
+  },
+  {
+    "atm_id":"ATM-00358",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Bengaluru Urban",
+    "latitude":12.99753,
+    "longitude":77.60909
+  },
+  {
+    "atm_id":"ATM-00225",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"New Delhi",
+    "latitude":28.57036,
+    "longitude":77.21124
+  },
+  {
+    "atm_id":"ATM-00361",
+    "bank_name":"Bank of Baroda",
+    "district":"Mumbai",
+    "latitude":19.0639,
+    "longitude":72.90943
+  },
+  {
+    "atm_id":"ATM-00379",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"New Delhi",
+    "latitude":28.58079,
+    "longitude":77.20102
+  },
+  {
+    "atm_id":"ATM-00351",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Noida",
+    "latitude":28.51611,
+    "longitude":77.39489
+  },
+  {
+    "atm_id":"ATM-00380",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Jaipur",
+    "latitude":26.91583,
+    "longitude":75.80181
+  },
+  {
+    "atm_id":"ATM-00128",
+    "bank_name":"State Bank of India",
+    "district":"Bengaluru Urban",
+    "latitude":13.0191,
+    "longitude":77.55634
+  },
+  {
+    "atm_id":"ATM-00075",
+    "bank_name":"Axis Bank",
+    "district":"Noida",
+    "latitude":28.49793,
+    "longitude":77.4332
+  },
+  {
+    "atm_id":"ATM-00323",
+    "bank_name":"Punjab National Bank",
+    "district":"Bengaluru Urban",
+    "latitude":12.99389,
+    "longitude":77.63807
+  },
+  {
+    "atm_id":"ATM-00030",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Noida",
+    "latitude":28.55386,
+    "longitude":77.36057
+  },
+  {
+    "atm_id":"ATM-00084",
+    "bank_name":"HDFC Bank",
+    "district":"Hyderabad",
+    "latitude":17.39534,
+    "longitude":78.47689
+  },
+  {
+    "atm_id":"ATM-00390",
+    "bank_name":"Punjab National Bank",
+    "district":"Jaipur",
+    "latitude":26.92779,
+    "longitude":75.8126
+  },
+  {
+    "atm_id":"ATM-00108",
+    "bank_name":"Bank of Baroda",
+    "district":"Bengaluru Urban",
+    "latitude":12.94454,
+    "longitude":77.55455
+  },
+  {
+    "atm_id":"ATM-00250",
+    "bank_name":"Punjab National Bank",
+    "district":"Chennai",
+    "latitude":13.12352,
+    "longitude":80.30703
+  },
+  {
+    "atm_id":"ATM-00297",
+    "bank_name":"Punjab National Bank",
+    "district":"Chennai",
+    "latitude":13.11559,
+    "longitude":80.27744
+  },
+  {
+    "atm_id":"ATM-00134",
+    "bank_name":"ICICI Bank",
+    "district":"Chennai",
+    "latitude":13.11892,
+    "longitude":80.30144
+  },
+  {
+    "atm_id":"ATM-00245",
+    "bank_name":"State Bank of India",
+    "district":"Jaipur",
+    "latitude":26.91995,
+    "longitude":75.75001
+  },
+  {
+    "atm_id":"ATM-00185",
+    "bank_name":"Bank of Baroda",
+    "district":"Pune",
+    "latitude":18.51179,
+    "longitude":73.88709
+  },
+  {
+    "atm_id":"ATM-00291",
+    "bank_name":"Punjab National Bank",
+    "district":"Lucknow",
+    "latitude":26.86452,
+    "longitude":80.93846
+  },
+  {
+    "atm_id":"ATM-00045",
+    "bank_name":"HDFC Bank",
+    "district":"Noida",
+    "latitude":28.51842,
+    "longitude":77.36407
+  },
+  {
+    "atm_id":"ATM-00368",
+    "bank_name":"ICICI Bank",
+    "district":"Mumbai",
+    "latitude":19.03506,
+    "longitude":72.90244
+  },
+  {
+    "atm_id":"ATM-00066",
+    "bank_name":"Axis Bank",
+    "district":"Jaipur",
+    "latitude":26.88441,
+    "longitude":75.80976
+  },
+  {
+    "atm_id":"ATM-00086",
+    "bank_name":"ICICI Bank",
+    "district":"Bengaluru Urban",
+    "latitude":12.95255,
+    "longitude":77.55718
+  },
+  {
+    "atm_id":"ATM-00243",
+    "bank_name":"ICICI Bank",
+    "district":"New Delhi",
+    "latitude":28.56227,
+    "longitude":77.25813
+  },
+  {
+    "atm_id":"ATM-00187",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Ahmedabad",
+    "latitude":22.97027,
+    "longitude":72.56828
+  },
+  {
+    "atm_id":"ATM-00160",
+    "bank_name":"Punjab National Bank",
+    "district":"Hyderabad",
+    "latitude":17.35075,
+    "longitude":78.49934
+  },
+  {
+    "atm_id":"ATM-00013",
+    "bank_name":"HDFC Bank",
+    "district":"Chennai",
+    "latitude":13.03848,
+    "longitude":80.30917
+  },
+  {
+    "atm_id":"ATM-00036",
+    "bank_name":"Punjab National Bank",
+    "district":"Noida",
+    "latitude":28.58278,
+    "longitude":77.38548
+  },
+  {
+    "atm_id":"ATM-00029",
+    "bank_name":"Bank of Baroda",
+    "district":"Jaipur",
+    "latitude":26.91201,
+    "longitude":75.75172
+  },
+  {
+    "atm_id":"ATM-00171",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Pune",
+    "latitude":18.48493,
+    "longitude":73.81734
+  },
+  {
+    "atm_id":"ATM-00143",
+    "bank_name":"State Bank of India",
+    "district":"New Delhi",
+    "latitude":28.60193,
+    "longitude":77.19312
+  },
+  {
+    "atm_id":"ATM-00319",
+    "bank_name":"Axis Bank",
+    "district":"Hyderabad",
+    "latitude":17.42171,
+    "longitude":78.46164
+  },
+  {
+    "atm_id":"ATM-00273",
+    "bank_name":"HDFC Bank",
+    "district":"Mumbai",
+    "latitude":19.08841,
+    "longitude":72.8333
+  },
+  {
+    "atm_id":"ATM-00222",
+    "bank_name":"HDFC Bank",
+    "district":"Pune",
+    "latitude":18.52221,
+    "longitude":73.87895
+  },
+  {
+    "atm_id":"ATM-00096",
+    "bank_name":"Bank of Baroda",
+    "district":"Chennai",
+    "latitude":13.06539,
+    "longitude":80.28055
+  },
+  {
+    "atm_id":"ATM-00052",
+    "bank_name":"HDFC Bank",
+    "district":"Lucknow",
+    "latitude":26.8242,
+    "longitude":80.96096
+  },
+  {
+    "atm_id":"ATM-00241",
+    "bank_name":"Punjab National Bank",
+    "district":"Ahmedabad",
+    "latitude":23.05497,
+    "longitude":72.61813
+  },
+  {
+    "atm_id":"ATM-00299",
+    "bank_name":"Bank of Baroda",
+    "district":"Pune",
+    "latitude":18.56586,
+    "longitude":73.84274
+  },
+  {
+    "atm_id":"ATM-00305",
+    "bank_name":"State Bank of India",
+    "district":"Jaipur",
+    "latitude":26.87963,
+    "longitude":75.76449
+  },
+  {
+    "atm_id":"ATM-00179",
+    "bank_name":"Bank of Baroda",
+    "district":"Ahmedabad",
+    "latitude":23.01496,
+    "longitude":72.60158
+  },
+  {
+    "atm_id":"ATM-00042",
+    "bank_name":"State Bank of India",
+    "district":"Chennai",
+    "latitude":13.08352,
+    "longitude":80.23274
+  },
+  {
+    "atm_id":"ATM-00311",
+    "bank_name":"Bank of Baroda",
+    "district":"Chennai",
+    "latitude":13.07413,
+    "longitude":80.23357
+  },
+  {
+    "atm_id":"ATM-00207",
+    "bank_name":"ICICI Bank",
+    "district":"Lucknow",
+    "latitude":26.80142,
+    "longitude":80.94295
+  },
+  {
+    "atm_id":"ATM-00255",
+    "bank_name":"Axis Bank",
+    "district":"Bengaluru Urban",
+    "latitude":12.93068,
+    "longitude":77.5877
+  },
+  {
+    "atm_id":"ATM-00332",
+    "bank_name":"HDFC Bank",
+    "district":"Bengaluru Urban",
+    "latitude":12.93714,
+    "longitude":77.54351
+  },
+  {
+    "atm_id":"ATM-00005",
+    "bank_name":"HDFC Bank",
+    "district":"New Delhi",
+    "latitude":28.64398,
+    "longitude":77.19617
+  },
+  {
+    "atm_id":"ATM-00257",
+    "bank_name":"HDFC Bank",
+    "district":"Jaipur",
+    "latitude":26.95397,
+    "longitude":75.8295
+  },
+  {
+    "atm_id":"ATM-00359",
+    "bank_name":"Bank of Baroda",
+    "district":"Bengaluru Urban",
+    "latitude":12.92836,
+    "longitude":77.55649
+  },
+  {
+    "atm_id":"ATM-00101",
+    "bank_name":"Axis Bank",
+    "district":"New Delhi",
+    "latitude":28.58995,
+    "longitude":77.16239
+  },
+  {
+    "atm_id":"ATM-00227",
+    "bank_name":"State Bank of India",
+    "district":"Hyderabad",
+    "latitude":17.41735,
+    "longitude":78.51477
+  },
+  {
+    "atm_id":"ATM-00342",
+    "bank_name":"Punjab National Bank",
+    "district":"Chennai",
+    "latitude":13.07649,
+    "longitude":80.2291
+  },
+  {
+    "atm_id":"ATM-00214",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Bengaluru Urban",
+    "latitude":13.01536,
+    "longitude":77.5466
+  },
+  {
+    "atm_id":"ATM-00172",
+    "bank_name":"Bank of Baroda",
+    "district":"Ahmedabad",
+    "latitude":23.03877,
+    "longitude":72.57793
+  },
+  {
+    "atm_id":"ATM-00099",
+    "bank_name":"ICICI Bank",
+    "district":"Bengaluru Urban",
+    "latitude":12.94069,
+    "longitude":77.59998
+  },
+  {
+    "atm_id":"ATM-00216",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Ahmedabad",
+    "latitude":22.98214,
+    "longitude":72.5966
+  },
+  {
+    "atm_id":"ATM-00062",
+    "bank_name":"Axis Bank",
+    "district":"Mumbai",
+    "latitude":19.0801,
+    "longitude":72.88989
+  },
+  {
+    "atm_id":"ATM-00048",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Jaipur",
+    "latitude":26.89167,
+    "longitude":75.76199
+  },
+  {
+    "atm_id":"ATM-00033",
+    "bank_name":"ICICI Bank",
+    "district":"Jaipur",
+    "latitude":26.90591,
+    "longitude":75.77414
+  },
+  {
+    "atm_id":"ATM-00268",
+    "bank_name":"State Bank of India",
+    "district":"Noida",
+    "latitude":28.55483,
+    "longitude":77.38977
+  },
+  {
+    "atm_id":"ATM-00201",
+    "bank_name":"Axis Bank",
+    "district":"Noida",
+    "latitude":28.54353,
+    "longitude":77.42995
+  },
+  {
+    "atm_id":"ATM-00357",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Ahmedabad",
+    "latitude":22.973,
+    "longitude":72.59655
+  },
+  {
+    "atm_id":"ATM-00028",
+    "bank_name":"Axis Bank",
+    "district":"Chennai",
+    "latitude":13.08529,
+    "longitude":80.24045
+  },
+  {
+    "atm_id":"ATM-00313",
+    "bank_name":"ICICI Bank",
+    "district":"Bengaluru Urban",
+    "latitude":13.01182,
+    "longitude":77.58091
+  },
+  {
+    "atm_id":"ATM-00231",
+    "bank_name":"Bank of Baroda",
+    "district":"Lucknow",
+    "latitude":26.80037,
+    "longitude":80.93554
+  },
+  {
+    "atm_id":"ATM-00261",
+    "bank_name":"Bank of Baroda",
+    "district":"Chennai",
+    "latitude":13.05386,
+    "longitude":80.26079
+  },
+  {
+    "atm_id":"ATM-00289",
+    "bank_name":"Axis Bank",
+    "district":"Hyderabad",
+    "latitude":17.43635,
+    "longitude":78.46696
+  },
+  {
+    "atm_id":"ATM-00163",
+    "bank_name":"Bank of Baroda",
+    "district":"Chennai",
+    "latitude":13.03961,
+    "longitude":80.28065
+  },
+  {
+    "atm_id":"ATM-00371",
+    "bank_name":"ICICI Bank",
+    "district":"Bengaluru Urban",
+    "latitude":12.97992,
+    "longitude":77.54028
+  },
+  {
+    "atm_id":"ATM-00139",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"New Delhi",
+    "latitude":28.56513,
+    "longitude":77.21917
+  },
+  {
+    "atm_id":"ATM-00063",
+    "bank_name":"ICICI Bank",
+    "district":"Pune",
+    "latitude":18.54881,
+    "longitude":73.83071
+  },
+  {
+    "atm_id":"ATM-00136",
+    "bank_name":"Punjab National Bank",
+    "district":"Jaipur",
+    "latitude":26.912,
+    "longitude":75.7679
+  },
+  {
+    "atm_id":"ATM-00129",
+    "bank_name":"HDFC Bank",
+    "district":"Noida",
+    "latitude":28.56272,
+    "longitude":77.4187
+  },
+  {
+    "atm_id":"ATM-00009",
+    "bank_name":"Punjab National Bank",
+    "district":"Lucknow",
+    "latitude":26.87486,
+    "longitude":80.91273
+  },
+  {
+    "atm_id":"ATM-00065",
+    "bank_name":"State Bank of India",
+    "district":"Lucknow",
+    "latitude":26.83794,
+    "longitude":80.98777
+  },
+  {
+    "atm_id":"ATM-00301",
+    "bank_name":"Bank of Baroda",
+    "district":"Lucknow",
+    "latitude":26.81874,
+    "longitude":80.97326
+  },
+  {
+    "atm_id":"ATM-00015",
+    "bank_name":"ICICI Bank",
+    "district":"Ahmedabad",
+    "latitude":23.00035,
+    "longitude":72.57353
+  },
+  {
+    "atm_id":"ATM-00157",
+    "bank_name":"Punjab National Bank",
+    "district":"Noida",
+    "latitude":28.52301,
+    "longitude":77.34389
+  },
+  {
+    "atm_id":"ATM-00041",
+    "bank_name":"State Bank of India",
+    "district":"Bengaluru Urban",
+    "latitude":12.9241,
+    "longitude":77.54703
+  },
+  {
+    "atm_id":"ATM-00367",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Chennai",
+    "latitude":13.07768,
+    "longitude":80.26911
+  },
+  {
+    "atm_id":"ATM-00324",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Bengaluru Urban",
+    "latitude":12.98673,
+    "longitude":77.55925
+  },
+  {
+    "atm_id":"ATM-00217",
+    "bank_name":"Bank of Baroda",
+    "district":"Chennai",
+    "latitude":13.07653,
+    "longitude":80.23221
+  },
+  {
+    "atm_id":"ATM-00280",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Pune",
+    "latitude":18.49068,
+    "longitude":73.84532
+  },
+  {
+    "atm_id":"ATM-00347",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Chennai",
+    "latitude":13.04798,
+    "longitude":80.30758
+  },
+  {
+    "atm_id":"ATM-00237",
+    "bank_name":"HDFC Bank",
+    "district":"Bengaluru Urban",
+    "latitude":12.99861,
+    "longitude":77.60381
+  },
+  {
+    "atm_id":"ATM-00208",
+    "bank_name":"HDFC Bank",
+    "district":"Lucknow",
+    "latitude":26.89466,
+    "longitude":80.90207
+  },
+  {
+    "atm_id":"ATM-00213",
+    "bank_name":"State Bank of India",
+    "district":"Mumbai",
+    "latitude":19.02762,
+    "longitude":72.83556
+  },
+  {
+    "atm_id":"ATM-00296",
+    "bank_name":"Bank of Baroda",
+    "district":"Noida",
+    "latitude":28.51521,
+    "longitude":77.36443
+  },
+  {
+    "atm_id":"ATM-00365",
+    "bank_name":"State Bank of India",
+    "district":"Noida",
+    "latitude":28.56525,
+    "longitude":77.36608
+  },
+  {
+    "atm_id":"ATM-00252",
+    "bank_name":"Axis Bank",
+    "district":"New Delhi",
+    "latitude":28.63523,
+    "longitude":77.16407
+  },
+  {
+    "atm_id":"ATM-00391",
+    "bank_name":"ICICI Bank",
+    "district":"Jaipur",
+    "latitude":26.92452,
+    "longitude":75.8067
+  },
+  {
+    "atm_id":"ATM-00366",
+    "bank_name":"Punjab National Bank",
+    "district":"Chennai",
+    "latitude":13.11128,
+    "longitude":80.28003
+  },
+  {
+    "atm_id":"ATM-00304",
+    "bank_name":"Axis Bank",
+    "district":"Jaipur",
+    "latitude":26.9164,
+    "longitude":75.74961
+  },
+  {
+    "atm_id":"ATM-00270",
+    "bank_name":"Punjab National Bank",
+    "district":"Pune",
+    "latitude":18.52766,
+    "longitude":73.89144
+  },
+  {
+    "atm_id":"ATM-00202",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Bengaluru Urban",
+    "latitude":12.97018,
+    "longitude":77.63526
+  },
+  {
+    "atm_id":"ATM-00162",
+    "bank_name":"HDFC Bank",
+    "district":"Mumbai",
+    "latitude":19.06623,
+    "longitude":72.90524
+  },
+  {
+    "atm_id":"ATM-00044",
+    "bank_name":"Punjab National Bank",
+    "district":"Bengaluru Urban",
+    "latitude":12.92099,
+    "longitude":77.57376
+  },
+  {
+    "atm_id":"ATM-00218",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Jaipur",
+    "latitude":26.88783,
+    "longitude":75.74833
+  },
+  {
+    "atm_id":"ATM-00191",
+    "bank_name":"Punjab National Bank",
+    "district":"Bengaluru Urban",
+    "latitude":12.9655,
+    "longitude":77.61191
+  },
+  {
+    "atm_id":"ATM-00310",
+    "bank_name":"State Bank of India",
+    "district":"New Delhi",
+    "latitude":28.6135,
+    "longitude":77.23386
+  },
+  {
+    "atm_id":"ATM-00260",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Pune",
+    "latitude":18.48694,
+    "longitude":73.90573
+  },
+  {
+    "atm_id":"ATM-00106",
+    "bank_name":"Axis Bank",
+    "district":"Noida",
+    "latitude":28.53868,
+    "longitude":77.38663
+  },
+  {
+    "atm_id":"ATM-00054",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Noida",
+    "latitude":28.53352,
+    "longitude":77.42609
+  },
+  {
+    "atm_id":"ATM-00002",
+    "bank_name":"Punjab National Bank",
+    "district":"Mumbai",
+    "latitude":19.03461,
+    "longitude":72.8327
+  },
+  {
+    "atm_id":"ATM-00050",
+    "bank_name":"ICICI Bank",
+    "district":"Mumbai",
+    "latitude":19.07712,
+    "longitude":72.88141
+  },
+  {
+    "atm_id":"ATM-00081",
+    "bank_name":"HDFC Bank",
+    "district":"Pune",
+    "latitude":18.49362,
+    "longitude":73.89077
+  },
+  {
+    "atm_id":"ATM-00206",
+    "bank_name":"Bank of Baroda",
+    "district":"Chennai",
+    "latitude":13.10257,
+    "longitude":80.23772
+  },
+  {
+    "atm_id":"ATM-00035",
+    "bank_name":"HDFC Bank",
+    "district":"Chennai",
+    "latitude":13.12839,
+    "longitude":80.22033
+  },
+  {
+    "atm_id":"ATM-00264",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Lucknow",
+    "latitude":26.86133,
+    "longitude":80.93884
+  },
+  {
+    "atm_id":"ATM-00092",
+    "bank_name":"Axis Bank",
+    "district":"Jaipur",
+    "latitude":26.93545,
+    "longitude":75.74671
+  },
+  {
+    "atm_id":"ATM-00340",
+    "bank_name":"Bank of Baroda",
+    "district":"Noida",
+    "latitude":28.52157,
+    "longitude":77.40063
+  },
+  {
+    "atm_id":"ATM-00053",
+    "bank_name":"Bank of Baroda",
+    "district":"Lucknow",
+    "latitude":26.82795,
+    "longitude":80.90032
+  },
+  {
+    "atm_id":"ATM-00346",
+    "bank_name":"State Bank of India",
+    "district":"Jaipur",
+    "latitude":26.93124,
+    "longitude":75.82167
+  },
+  {
+    "atm_id":"ATM-00265",
+    "bank_name":"Punjab National Bank",
+    "district":"Chennai",
+    "latitude":13.05927,
+    "longitude":80.23362
+  },
+  {
+    "atm_id":"ATM-00242",
+    "bank_name":"ICICI Bank",
+    "district":"Ahmedabad",
+    "latitude":22.97751,
+    "longitude":72.55084
+  },
+  {
+    "atm_id":"ATM-00014",
+    "bank_name":"Axis Bank",
+    "district":"Bengaluru Urban",
+    "latitude":12.95695,
+    "longitude":77.57933
+  },
+  {
+    "atm_id":"ATM-00316",
+    "bank_name":"Bank of Baroda",
+    "district":"Noida",
+    "latitude":28.56911,
+    "longitude":77.39369
+  },
+  {
+    "atm_id":"ATM-00089",
+    "bank_name":"ICICI Bank",
+    "district":"Pune",
+    "latitude":18.49419,
+    "longitude":73.8709
+  },
+  {
+    "atm_id":"ATM-00274",
+    "bank_name":"Bank of Baroda",
+    "district":"Noida",
+    "latitude":28.58594,
+    "longitude":77.39746
+  },
+  {
+    "atm_id":"ATM-00167",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"New Delhi",
+    "latitude":28.6018,
+    "longitude":77.25305
+  },
+  {
+    "atm_id":"ATM-00329",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Lucknow",
+    "latitude":26.83666,
+    "longitude":80.97566
+  },
+  {
+    "atm_id":"ATM-00394",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"New Delhi",
+    "latitude":28.58139,
+    "longitude":77.19096
+  },
+  {
+    "atm_id":"ATM-00135",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Ahmedabad",
+    "latitude":23.02267,
+    "longitude":72.58678
+  },
+  {
+    "atm_id":"ATM-00307",
+    "bank_name":"Punjab National Bank",
+    "district":"Ahmedabad",
+    "latitude":23.01932,
+    "longitude":72.56308
+  },
+  {
+    "atm_id":"ATM-00384",
+    "bank_name":"Punjab National Bank",
+    "district":"Chennai",
+    "latitude":13.04243,
+    "longitude":80.27558
+  },
+  {
+    "atm_id":"ATM-00320",
+    "bank_name":"HDFC Bank",
+    "district":"Ahmedabad",
+    "latitude":22.98001,
+    "longitude":72.57037
+  },
+  {
+    "atm_id":"ATM-00244",
+    "bank_name":"Punjab National Bank",
+    "district":"Pune",
+    "latitude":18.54118,
+    "longitude":73.89695
+  },
+  {
+    "atm_id":"ATM-00055",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"New Delhi",
+    "latitude":28.60462,
+    "longitude":77.18322
+  },
+  {
+    "atm_id":"ATM-00051",
+    "bank_name":"Axis Bank",
+    "district":"Hyderabad",
+    "latitude":17.35246,
+    "longitude":78.46462
+  },
+  {
+    "atm_id":"ATM-00175",
+    "bank_name":"ICICI Bank",
+    "district":"Lucknow",
+    "latitude":26.88956,
+    "longitude":80.96562
+  },
+  {
+    "atm_id":"ATM-00190",
+    "bank_name":"Axis Bank",
+    "district":"Jaipur",
+    "latitude":26.92125,
+    "longitude":75.80122
+  },
+  {
+    "atm_id":"ATM-00398",
+    "bank_name":"Axis Bank",
+    "district":"Noida",
+    "latitude":28.57663,
+    "longitude":77.34423
+  },
+  {
+    "atm_id":"ATM-00188",
+    "bank_name":"Bank of Baroda",
+    "district":"Chennai",
+    "latitude":13.05017,
+    "longitude":80.23478
+  },
+  {
+    "atm_id":"ATM-00170",
+    "bank_name":"Axis Bank",
+    "district":"Jaipur",
+    "latitude":26.94751,
+    "longitude":75.75477
+  },
+  {
+    "atm_id":"ATM-00059",
+    "bank_name":"ICICI Bank",
+    "district":"Hyderabad",
+    "latitude":17.38367,
+    "longitude":78.52751
+  },
+  {
+    "atm_id":"ATM-00049",
+    "bank_name":"HDFC Bank",
+    "district":"New Delhi",
+    "latitude":28.58031,
+    "longitude":77.22163
+  },
+  {
+    "atm_id":"ATM-00345",
+    "bank_name":"Bank of Baroda",
+    "district":"Mumbai",
+    "latitude":19.07601,
+    "longitude":72.85946
+  },
+  {
+    "atm_id":"ATM-00236",
+    "bank_name":"Punjab National Bank",
+    "district":"Chennai",
+    "latitude":13.10259,
+    "longitude":80.25407
+  },
+  {
+    "atm_id":"ATM-00253",
+    "bank_name":"State Bank of India",
+    "district":"Mumbai",
+    "latitude":19.08579,
+    "longitude":72.8469
+  },
+  {
+    "atm_id":"ATM-00022",
+    "bank_name":"ICICI Bank",
+    "district":"Noida",
+    "latitude":28.54944,
+    "longitude":77.36278
+  },
+  {
+    "atm_id":"ATM-00314",
+    "bank_name":"State Bank of India",
+    "district":"Jaipur",
+    "latitude":26.94898,
+    "longitude":75.82931
+  },
+  {
+    "atm_id":"ATM-00161",
+    "bank_name":"HDFC Bank",
+    "district":"Chennai",
+    "latitude":13.03717,
+    "longitude":80.28127
+  },
+  {
+    "atm_id":"ATM-00277",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Pune",
+    "latitude":18.54243,
+    "longitude":73.88856
+  },
+  {
+    "atm_id":"ATM-00192",
+    "bank_name":"State Bank of India",
+    "district":"Noida",
+    "latitude":28.54388,
+    "longitude":77.41558
+  },
+  {
+    "atm_id":"ATM-00294",
+    "bank_name":"State Bank of India",
+    "district":"Chennai",
+    "latitude":13.10995,
+    "longitude":80.29464
+  },
+  {
+    "atm_id":"ATM-00344",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Lucknow",
+    "latitude":26.8737,
+    "longitude":80.95335
+  },
+  {
+    "atm_id":"ATM-00258",
+    "bank_name":"Punjab National Bank",
+    "district":"Mumbai",
+    "latitude":19.05341,
+    "longitude":72.83851
+  },
+  {
+    "atm_id":"ATM-00309",
+    "bank_name":"Axis Bank",
+    "district":"Lucknow",
+    "latitude":26.84107,
+    "longitude":80.90439
+  },
+  {
+    "atm_id":"ATM-00150",
+    "bank_name":"HDFC Bank",
+    "district":"Lucknow",
+    "latitude":26.82865,
+    "longitude":80.96106
+  },
+  {
+    "atm_id":"ATM-00131",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Hyderabad",
+    "latitude":17.35142,
+    "longitude":78.50694
+  },
+  {
+    "atm_id":"ATM-00152",
+    "bank_name":"Bank of Baroda",
+    "district":"Mumbai",
+    "latitude":19.03007,
+    "longitude":72.82823
+  },
+  {
+    "atm_id":"ATM-00360",
+    "bank_name":"Axis Bank",
+    "district":"Jaipur",
+    "latitude":26.86811,
+    "longitude":75.8088
+  },
+  {
+    "atm_id":"ATM-00100",
+    "bank_name":"Axis Bank",
+    "district":"Noida",
+    "latitude":28.50155,
+    "longitude":77.43042
+  },
+  {
+    "atm_id":"ATM-00373",
+    "bank_name":"HDFC Bank",
+    "district":"Ahmedabad",
+    "latitude":23.04239,
+    "longitude":72.54751
+  },
+  {
+    "atm_id":"ATM-00088",
+    "bank_name":"HDFC Bank",
+    "district":"New Delhi",
+    "latitude":28.57349,
+    "longitude":77.16483
+  },
+  {
+    "atm_id":"ATM-00331",
+    "bank_name":"Axis Bank",
+    "district":"Mumbai",
+    "latitude":19.10336,
+    "longitude":72.83591
+  },
+  {
+    "atm_id":"ATM-00215",
+    "bank_name":"Axis Bank",
+    "district":"Noida",
+    "latitude":28.58651,
+    "longitude":77.35134
+  },
+  {
+    "atm_id":"ATM-00122",
+    "bank_name":"Bank of Baroda",
+    "district":"New Delhi",
+    "latitude":28.59302,
+    "longitude":77.23143
+  },
+  {
+    "atm_id":"ATM-00400",
+    "bank_name":"Bank of Baroda",
+    "district":"Pune",
+    "latitude":18.49938,
+    "longitude":73.90592
+  },
+  {
+    "atm_id":"ATM-00021",
+    "bank_name":"ICICI Bank",
+    "district":"Mumbai",
+    "latitude":19.04516,
+    "longitude":72.84682
+  },
+  {
+    "atm_id":"ATM-00189",
+    "bank_name":"Punjab National Bank",
+    "district":"Chennai",
+    "latitude":13.05734,
+    "longitude":80.25907
+  },
+  {
+    "atm_id":"ATM-00072",
+    "bank_name":"State Bank of India",
+    "district":"Jaipur",
+    "latitude":26.91309,
+    "longitude":75.75957
+  },
+  {
+    "atm_id":"ATM-00107",
+    "bank_name":"Axis Bank",
+    "district":"Ahmedabad",
+    "latitude":23.05824,
+    "longitude":72.56633
+  },
+  {
+    "atm_id":"ATM-00271",
+    "bank_name":"Bank of Baroda",
+    "district":"Mumbai",
+    "latitude":19.11672,
+    "longitude":72.84488
+  },
+  {
+    "atm_id":"ATM-00349",
+    "bank_name":"Punjab National Bank",
+    "district":"Jaipur",
+    "latitude":26.91437,
+    "longitude":75.74742
+  },
+  {
+    "atm_id":"ATM-00103",
+    "bank_name":"Kotak Mahindra Bank",
+    "district":"Pune",
+    "latitude":18.51499,
+    "longitude":73.86904
+  }
+]
