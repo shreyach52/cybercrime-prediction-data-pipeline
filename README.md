@@ -1,7 +1,7 @@
 # Synthetic Cybercrime Complaint Data Pipeline
 
 **Smart India Hackathon 2026 — PS 26184 (Ministry of Home Affairs / I4C)**
-*My individual contribution as Data & Synthetic Dataset Engineer on a 5-member team*
+
 
 ## The problem
 
