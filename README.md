@@ -108,6 +108,6 @@ RESULT: 13/13 checks passed
 ## Scope note
 
 This repo contains only my individual contribution (data generation +
-ingestion API) from a 5-member SIH team project. The graph/network
+ingestion API) from a 6-member SIH team project. The graph/network
 model, spatio-temporal model, fusion/alerting backend, and GIS dashboard
 were built by teammates and aren't included here.
